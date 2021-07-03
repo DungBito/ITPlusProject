@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: 92d73c5bf3efd674aac6bea808ea0d52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7997381177588080610
+    second: Run(Bomb)_0
+  - first:
+      213: -2950053129541446419
+    second: Run(Bomb)_1
+  - first:
+      213: 6769666876818676068
+    second: Run(Bomb)_2
+  - first:
+      213: 5421633295027527317
+    second: Run(Bomb)_3
+  - first:
+      213: -3217697009979342934
+    second: Run(Bomb)_4
+  - first:
+      213: 5537861522882887261
+    second: Run(Bomb)_5
+  - first:
+      213: -1794477042367527574
+    second: Run(Bomb)_6
+  - first:
+      213: 2010336889987616304
+    second: Run(Bomb)_7
+  - first:
+      213: 5498188994887403764
+    second: Run(Bomb)_8
+  - first:
+      213: 5459138629046890119
+    second: Run(Bomb)_9
+  - first:
+      213: -6048491878530831783
+    second: Run(Bomb)_10
+  - first:
+      213: 72337109578646681
+    second: Run(Bomb)_11
+  - first:
+      213: 2527166820983440371
+    second: Run(Bomb)_12
+  - first:
+      213: -3100177050093366937
+    second: Run(Bomb)_13
+  - first:
+      213: -4594774226742485819
+    second: Run(Bomb)_14
+  - first:
+      213: 571347993766617376
+    second: Run(Bomb)_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Run(Bomb)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef588f1fc76cfe60800000000000000
+      internalID: 7997381177588080610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run(Bomb)_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 182
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de417290f4e4f07d0800000000000000
+      internalID: -2950053129541446419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run(Bomb)_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 182
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46951804820b2fd50800000000000000
+      internalID: 6769666876818676068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run(Bomb)_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 182
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59edb8cb1c28d3b40800000000000000
+      internalID: 5421633295027527317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run(Bomb)_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 182
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf38551e917853d0800000000000000
+      internalID: -3217697009979342934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run(Bomb)_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 182
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5efcb6d6bf6adc40800000000000000
+      internalID: 5537861522882887261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run(Bomb)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65071433acb817e0800000000000000
+      internalID: -1794477042367527574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run(Bomb)_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 108
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e439e00c626eb10800000000000000
+      internalID: 2010336889987616304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run(Bomb)_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 108
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8c93c92cd7d4c40800000000000000
+      internalID: 5498188994887403764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run(Bomb)_9
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 108
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ee3fbc8a1c2cb40800000000000000
+      internalID: 5459138629046890119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run(Bomb)_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 108
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aa559cea07f0ca0800000000000000
+      internalID: -6048491878530831783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run(Bomb)_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 108
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9948388c73ef00100800000000000000
+      internalID: 72337109578646681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run(Bomb)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f30fdc85dc421320800000000000000
+      internalID: 2527166820983440371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run(Bomb)_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 34
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761dd5cf565f9f4d0800000000000000
+      internalID: -3100177050093366937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run(Bomb)_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 34
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccd4e75f251c30c0800000000000000
+      internalID: -4594774226742485819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run(Bomb)_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 34
+        width: 77
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021679329f5dde700800000000000000
+      internalID: 571347993766617376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

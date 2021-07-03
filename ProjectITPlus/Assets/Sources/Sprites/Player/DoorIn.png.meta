@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: 554180103c76804489a150b6a4605f54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1374266448808297211
+    second: DoorIn_0
+  - first:
+      213: 3647459295867763899
+    second: DoorIn_1
+  - first:
+      213: -4394264677071254143
+    second: DoorIn_2
+  - first:
+      213: 6372055164349848084
+    second: DoorIn_3
+  - first:
+      213: -8503280124592492743
+    second: DoorIn_4
+  - first:
+      213: -6803668156873834552
+    second: DoorIn_5
+  - first:
+      213: -8358332734739714799
+    second: DoorIn_6
+  - first:
+      213: -7090236557233872130
+    second: DoorIn_7
+  - first:
+      213: 2059916887058915249
+    second: DoorIn_8
+  - first:
+      213: -3293452001773634841
+    second: DoorIn_9
+  - first:
+      213: -2986307680694957270
+    second: DoorIn_10
+  - first:
+      213: 4217189400856366806
+    second: DoorIn_11
+  - first:
+      213: 2368800569037647794
+    second: DoorIn_12
+  - first:
+      213: -7508445745052388789
+    second: DoorIn_13
+  - first:
+      213: 4157348373438822491
+    second: DoorIn_14
+  - first:
+      213: -8981369215464457353
+    second: DoorIn_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 58
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DoorIn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2c4f3dd00621310800000000000000
+      internalID: 1374266448808297211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIn_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 198
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcf4ee87e06e9230800000000000000
+      internalID: 3647459295867763899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIn_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 198
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d0f1ade8f6403c0800000000000000
+      internalID: -4394264677071254143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIn_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 198
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a144059661e6850800000000000000
+      internalID: 6372055164349848084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIn_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f660c67c74ef980800000000000000
+      internalID: -8503280124592492743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIn_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 140
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cff5e3dbd38491a0800000000000000
+      internalID: -6803668156873834552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIn_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 140
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11de15f79ac310c80800000000000000
+      internalID: -8358332734739714799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIn_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 140
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef22698ba6b6a9d90800000000000000
+      internalID: -7090236557233872130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIn_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf99ffae7b469c10800000000000000
+      internalID: 2059916887058915249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIn_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 82
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eabb759ade4b42d0800000000000000
+      internalID: -3293452001773634841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIn_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 82
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b082e8cf08e86d0800000000000000
+      internalID: -2986307680694957270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIn_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 82
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de069c9a67768a30800000000000000
+      internalID: 4217189400856366806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIn_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf6b3d219bafd020800000000000000
+      internalID: 2368800569037647794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIn_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 24
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42fbd65064acc790800000000000000
+      internalID: -7508445745052388789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIn_14
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 24
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b587e5ea15ed1b930800000000000000
+      internalID: 4157348373438822491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorIn_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 24
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5862069, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bbc9ba844cb5380800000000000000
+      internalID: -8981369215464457353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

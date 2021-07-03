@@ -1,0 +1,3284 @@
+fileFormatVersion: 2
+guid: 71ccb030889f903488ef78f573e1c86b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2702881699427335695
+    second: Shooter Traps_0
+  - first:
+      213: 3760077716473331353
+    second: Shooter Traps_1
+  - first:
+      213: -3392473999839785214
+    second: Shooter Traps_2
+  - first:
+      213: 2551308913992100561
+    second: Shooter Traps_3
+  - first:
+      213: 3139926779169953525
+    second: Shooter Traps_4
+  - first:
+      213: 4847510328858195761
+    second: Shooter Traps_5
+  - first:
+      213: -5887097217832392442
+    second: Shooter Traps_6
+  - first:
+      213: 5011568195212276223
+    second: Shooter Traps_7
+  - first:
+      213: -3085932875750166683
+    second: Shooter Traps_8
+  - first:
+      213: 5630779151109413759
+    second: Shooter Traps_9
+  - first:
+      213: 3224845226197338565
+    second: Shooter Traps_10
+  - first:
+      213: 4560557856934960926
+    second: Shooter Traps_11
+  - first:
+      213: -1301581984766055659
+    second: Shooter Traps_12
+  - first:
+      213: 61612487570559797
+    second: Shooter Traps_13
+  - first:
+      213: 4386551827409243524
+    second: Shooter Traps_14
+  - first:
+      213: 6358952824894006174
+    second: Shooter Traps_15
+  - first:
+      213: -5155522539681067960
+    second: Shooter Traps_16
+  - first:
+      213: -8969355411927609582
+    second: Shooter Traps_17
+  - first:
+      213: 2550096141140356585
+    second: Shooter Traps_18
+  - first:
+      213: 7780072949133313607
+    second: Shooter Traps_19
+  - first:
+      213: -4176411489993004834
+    second: Shooter Traps_20
+  - first:
+      213: 387000566510110159
+    second: Shooter Traps_21
+  - first:
+      213: -64592103519330539
+    second: Shooter Traps_22
+  - first:
+      213: -7696203928569598713
+    second: Shooter Traps_23
+  - first:
+      213: -3955658103294019696
+    second: Shooter Traps_24
+  - first:
+      213: -4220913331900561141
+    second: Shooter Traps_25
+  - first:
+      213: 7664548009909481841
+    second: Shooter Traps_26
+  - first:
+      213: -5878146564469253037
+    second: Shooter Traps_27
+  - first:
+      213: -3686799499155078411
+    second: Shooter Traps_28
+  - first:
+      213: -5889795464031336316
+    second: Shooter Traps_29
+  - first:
+      213: 7283684707818141053
+    second: Shooter Traps_30
+  - first:
+      213: -5116218606263812899
+    second: Shooter Traps_31
+  - first:
+      213: 8422290566641016186
+    second: Shooter Traps_32
+  - first:
+      213: -1972472810453218520
+    second: Shooter Traps_33
+  - first:
+      213: -5697030912274668267
+    second: Shooter Traps_34
+  - first:
+      213: -6370560506247070386
+    second: Shooter Traps_35
+  - first:
+      213: 2320251601802962527
+    second: Shooter Traps_36
+  - first:
+      213: -4411685804314951754
+    second: Shooter Traps_37
+  - first:
+      213: 7775571136419031861
+    second: Shooter Traps_38
+  - first:
+      213: 695584636281166568
+    second: Shooter Traps_39
+  - first:
+      213: -6798758651752929439
+    second: Shooter Traps_40
+  - first:
+      213: -647459601603704805
+    second: Shooter Traps_41
+  - first:
+      213: -1584374824595658207
+    second: Shooter Traps_42
+  - first:
+      213: -1253442045305291
+    second: Shooter Traps_43
+  - first:
+      213: 8499861291976267182
+    second: Shooter Traps_44
+  - first:
+      213: -8977652075993774496
+    second: Shooter Traps_45
+  - first:
+      213: -5232181814392473873
+    second: Shooter Traps_46
+  - first:
+      213: -6695870207413388371
+    second: Shooter Traps_47
+  - first:
+      213: 8951471661850231615
+    second: Shooter Traps_48
+  - first:
+      213: -4445713325390849491
+    second: Shooter Traps_49
+  - first:
+      213: -9021425437268188320
+    second: Shooter Traps_50
+  - first:
+      213: 5279907406300040696
+    second: Shooter Traps_51
+  - first:
+      213: 6694427300365239370
+    second: Shooter Traps_52
+  - first:
+      213: -493220394173767626
+    second: Shooter Traps_53
+  - first:
+      213: 3813838327917751697
+    second: Shooter Traps_54
+  - first:
+      213: -3794338091214550223
+    second: Shooter Traps_55
+  - first:
+      213: 2572314638868326178
+    second: Shooter Traps_56
+  - first:
+      213: 4582743271787247878
+    second: Shooter Traps_57
+  - first:
+      213: 1044346413260734385
+    second: Shooter Traps_58
+  - first:
+      213: -1904856686629915613
+    second: Shooter Traps_59
+  - first:
+      213: 665256873966338393
+    second: Shooter Traps_60
+  - first:
+      213: 6899826325319319846
+    second: Shooter Traps_61
+  - first:
+      213: 4251272812858305009
+    second: Shooter Traps_62
+  - first:
+      213: 4380843634565548445
+    second: Shooter Traps_63
+  - first:
+      213: -2349996324285436902
+    second: Shooter Traps_64
+  - first:
+      213: -1526227108529333647
+    second: Shooter Traps_65
+  - first:
+      213: 5094138848744521171
+    second: Shooter Traps_66
+  - first:
+      213: 3006895283120260733
+    second: Shooter Traps_67
+  - first:
+      213: 6223383842199518059
+    second: Shooter Traps_68
+  - first:
+      213: 3383593512664184428
+    second: Shooter Traps_69
+  - first:
+      213: 974840298940060297
+    second: Shooter Traps_70
+  - first:
+      213: 989260297782842842
+    second: Shooter Traps_71
+  - first:
+      213: -7913162337147821261
+    second: Shooter Traps_72
+  - first:
+      213: -1851688235777543058
+    second: Shooter Traps_73
+  - first:
+      213: 8640592428350939586
+    second: Shooter Traps_74
+  - first:
+      213: -6220237721035192901
+    second: Shooter Traps_75
+  - first:
+      213: 165870716051087601
+    second: Shooter Traps_76
+  - first:
+      213: 7232391996008151350
+    second: Shooter Traps_77
+  - first:
+      213: -816462641083952903
+    second: Shooter Traps_78
+  - first:
+      213: -7875390905843105800
+    second: Shooter Traps_79
+  - first:
+      213: -4128325269786003750
+    second: Shooter Traps_80
+  - first:
+      213: 8498217279626394725
+    second: Shooter Traps_81
+  - first:
+      213: 1693244466749345908
+    second: Shooter Traps_82
+  - first:
+      213: 4473908852073402522
+    second: Shooter Traps_83
+  - first:
+      213: -4784245705070983831
+    second: Shooter Traps_84
+  - first:
+      213: -4721724244567527707
+    second: Shooter Traps_85
+  - first:
+      213: -520332302843598096
+    second: Shooter Traps_86
+  - first:
+      213: -2961962782770132629
+    second: Shooter Traps_87
+  - first:
+      213: -6713162806439832004
+    second: Shooter Traps_88
+  - first:
+      213: -323753980715804538
+    second: Shooter Traps_89
+  - first:
+      213: 391810461954715193
+    second: Shooter Traps_90
+  - first:
+      213: -8338323624514830362
+    second: Shooter Traps_91
+  - first:
+      213: -3786711212903585171
+    second: Shooter Traps_92
+  - first:
+      213: 6310437543827968309
+    second: Shooter Traps_93
+  - first:
+      213: 3192489279381487793
+    second: Shooter Traps_94
+  - first:
+      213: -7115081664024691774
+    second: Shooter Traps_95
+  - first:
+      213: -7100310808750010227
+    second: Shooter Traps_96
+  - first:
+      213: -2097484388119711733
+    second: Shooter Traps_97
+  - first:
+      213: -5595641271541080291
+    second: Shooter Traps_98
+  - first:
+      213: 689176095595278849
+    second: Shooter Traps_99
+  - first:
+      213: -127252772155258014
+    second: Shooter Traps_100
+  - first:
+      213: 3011174510535013229
+    second: Shooter Traps_101
+  - first:
+      213: -837039317646853913
+    second: Shooter Traps_102
+  - first:
+      213: 3173629833557249606
+    second: Shooter Traps_103
+  - first:
+      213: -739677428089771496
+    second: Shooter Traps_104
+  - first:
+      213: 1008770448679307346
+    second: Shooter Traps_105
+  - first:
+      213: 2019549741491873366
+    second: Shooter Traps_106
+  - first:
+      213: 2198715148912002790
+    second: Shooter Traps_107
+  - first:
+      213: 1941665313275830110
+    second: Shooter Traps_108
+  - first:
+      213: -4166075614915902139
+    second: Shooter Traps_109
+  - first:
+      213: 7599585941439027898
+    second: Shooter Traps_110
+  - first:
+      213: 254646285057903411
+    second: Shooter Traps_111
+  - first:
+      213: -6865719995850907335
+    second: Shooter Traps_112
+  - first:
+      213: -7574865560199362067
+    second: Shooter Traps_113
+  - first:
+      213: 100867504793943939
+    second: Shooter Traps_114
+  - first:
+      213: 8097145772311702936
+    second: Shooter Traps_115
+  - first:
+      213: -6252821611060208643
+    second: Shooter Traps_116
+  - first:
+      213: -2901741780406942820
+    second: Shooter Traps_117
+  - first:
+      213: 1124027947808153604
+    second: Shooter Traps_118
+  - first:
+      213: -7005806491179707671
+    second: Shooter Traps_119
+  - first:
+      213: 6714466166928589946
+    second: Shooter Traps_120
+  - first:
+      213: -4035813654703294267
+    second: Shooter Traps_121
+  - first:
+      213: -5232104331765128253
+    second: Shooter Traps_122
+  - first:
+      213: -2513707288188453902
+    second: Shooter Traps_123
+  - first:
+      213: -1026711948485977336
+    second: Shooter Traps_124
+  - first:
+      213: -2885302153119416567
+    second: Shooter Traps_125
+  - first:
+      213: -3037697645722569876
+    second: Shooter Traps_126
+  - first:
+      213: -1296735505406169326
+    second: Shooter Traps_127
+  - first:
+      213: -193134238427574082
+    second: Shooter Traps_128
+  - first:
+      213: -2441317828059542893
+    second: Shooter Traps_129
+  - first:
+      213: 4489875889756879683
+    second: Shooter Traps_130
+  - first:
+      213: 4461857926435965038
+    second: Shooter Traps_131
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shooter Traps_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1cab33a6f6d7ad0800000000000000
+      internalID: -2702881699427335695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e314ae2ca7e2430800000000000000
+      internalID: 3760077716473331353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f0dc90fd28be0d0800000000000000
+      internalID: -3392473999839785214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da69ca90f1186320800000000000000
+      internalID: 2551308913992100561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6592505c2439b20800000000000000
+      internalID: 3139926779169953525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13731acf5f0d54340800000000000000
+      internalID: 4847510328858195761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609e8e48544dc4ea0800000000000000
+      internalID: -5887097217832392442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1f54b98baac8540800000000000000
+      internalID: 5011568195212276223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f263446609c25d0800000000000000
+      internalID: -3085932875750166683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b5d860ecb842e40800000000000000
+      internalID: 5630779151109413759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c94b13b5a3f0cc20800000000000000
+      internalID: 3224845226197338565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f9930453b5a4f30800000000000000
+      internalID: 4560557856934960926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ba8f7b41adfede0800000000000000
+      internalID: -1301581984766055659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5331f532b34ead000800000000000000
+      internalID: 61612487570559797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_14
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d819565a920ec30800000000000000
+      internalID: 4386551827409243524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_15
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93264f27e98f3850800000000000000
+      internalID: 6358952824894006174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_16
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c4ac6b097e378b0800000000000000
+      internalID: -5155522539681067960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_17
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fc3d746c2768380800000000000000
+      internalID: -8969355411927609582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_18
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ede3cbede2c36320800000000000000
+      internalID: 2550096141140356585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_19
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74687bb602f58fb60800000000000000
+      internalID: 7780072949133313607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_20
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed86b1f90e76a06c0800000000000000
+      internalID: -4176411489993004834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5c5bef6f6ee5500800000000000000
+      internalID: 387000566510110159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f5f66f2d58a1ff0800000000000000
+      internalID: -64592103519330539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70da4ae9d47913590800000000000000
+      internalID: -7696203928569598713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097b34cb9edaa19c0800000000000000
+      internalID: -3955658103294019696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b094b5020bd4c65c0800000000000000
+      internalID: -4220913331900561141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171f4967ec1fd5a60800000000000000
+      internalID: 7664548009909481841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_27
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c9027e7d0ac6ea0800000000000000
+      internalID: -5878146564469253037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f206c6936bd5dcc0800000000000000
+      internalID: -3686799499155078411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_29
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48884be1b3e334ea0800000000000000
+      internalID: -5889795464031336316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_30
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75f171b6a8d41560800000000000000
+      internalID: 7283684707818141053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_31
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcb664d84a8ff8b0800000000000000
+      internalID: -5116218606263812899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_32
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dd2cba5acf1e470800000000000000
+      internalID: 8422290566641016186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_33
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bc1d3fd6e50a4e0800000000000000
+      internalID: -1972472810453218520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_34
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515e277c19410f0b0800000000000000
+      internalID: -5697030912274668267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_35
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4db205e8f83797a0800000000000000
+      internalID: -6370560506247070386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_36
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f562ff2e980333020800000000000000
+      internalID: 2320251601802962527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_37
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf7c25922b86c2c0800000000000000
+      internalID: -4411685804314951754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_38
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b690870c068eb60800000000000000
+      internalID: 7775571136419031861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_39
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea12c49a8637a900800000000000000
+      internalID: 695584636281166568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_40
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16727a01705f5a1a0800000000000000
+      internalID: -6798758651752929439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18cef73ce2c307f0800000000000000
+      internalID: -647459601603704805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a67eccd7b230ae0800000000000000
+      internalID: -1584374824595658207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e9428400c8bfff0800000000000000
+      internalID: -1253442045305291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea596549fc295f570800000000000000
+      internalID: 8499861291976267182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066c755a009f86380800000000000000
+      internalID: -8977652075993774496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6b0e07c5e8367b0800000000000000
+      internalID: -5232181814392473873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabf009c58d7313a0800000000000000
+      internalID: -6695870207413388371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_48
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f330f8dac040a3c70800000000000000
+      internalID: 8951471661850231615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_49
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a9bd2f847ad42c0800000000000000
+      internalID: -4445713325390849491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_50
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063e4f3cc557dc280800000000000000
+      internalID: -9021425437268188320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_51
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdc777dfcff54940800000000000000
+      internalID: 5279907406300040696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_52
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4482fc392267ec50800000000000000
+      internalID: 6694427300365239370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_53
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6306b492aaab729f0800000000000000
+      internalID: -493220394173767626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_54
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dae4ea0c97de430800000000000000
+      internalID: 3813838327917751697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_55
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b4c6bfb9dc75bc0800000000000000
+      internalID: -3794338091214550223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_56
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227a84c0982b2b320800000000000000
+      internalID: 2572314638868326178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_57
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609b0bba9bc299f30800000000000000
+      internalID: 4582743271787247878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_58
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bffbd897834e7e00800000000000000
+      internalID: 1044346413260734385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_59
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32475659fe69095e0800000000000000
+      internalID: -1904856686629915613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_60
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95186292a977b3900800000000000000
+      internalID: 665256873966338393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_61
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 736
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6210c8c6c7b11cf50800000000000000
+      internalID: 6899826325319319846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9e1bd591e8ffa30800000000000000
+      internalID: 4251272812858305009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d998fce2312ebcc30800000000000000
+      internalID: 4380843634565548445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c2e7b3bc2236fd0800000000000000
+      internalID: -2349996324285436902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a9985f780c1dae0800000000000000
+      internalID: -1526227108529333647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd3fe30b4402b640800000000000000
+      internalID: 5094138848744521171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_67
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d764e2b2453aab920800000000000000
+      internalID: 3006895283120260733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_68
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b353fa1a6ed5650800000000000000
+      internalID: 6223383842199518059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_69
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c663aaa6f50f4fe20800000000000000
+      internalID: 3383593512664184428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_70
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982de034614578d00800000000000000
+      internalID: 974840298940060297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_71
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad55ebfdffe8abd00800000000000000
+      internalID: 989260297782842842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_72
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333ed44b7ccce2290800000000000000
+      internalID: -7913162337147821261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_73
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64b5b73c5b7d46e0800000000000000
+      internalID: -1851688235777543058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_74
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1a9c4a80d89e770800000000000000
+      internalID: 8640592428350939586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_75
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5463bbfb64da9a0800000000000000
+      internalID: -6220237721035192901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_76
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f06dd4998a4d4200800000000000000
+      internalID: 165870716051087601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_77
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639b176933e9e5460800000000000000
+      internalID: 7232391996008151350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_78
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f050d1cd875ba4f0800000000000000
+      internalID: -816462641083952903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_79
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff31ed52bdf4b290800000000000000
+      internalID: -7875390905843105800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_80
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6f2293a0e35b6c0800000000000000
+      internalID: -4128325269786003750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_81
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cb730279bbfe570800000000000000
+      internalID: 8498217279626394725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_82
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4709d7e0fdc9f7710800000000000000
+      internalID: 1693244466749345908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a909f4da564861e30800000000000000
+      internalID: 4473908852073402522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9654e0711e1fa9db0800000000000000
+      internalID: -4784245705070983831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_85
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eee33bf0d0197eb0800000000000000
+      internalID: -4721724244567527707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faa8d3078867c8f0800000000000000
+      internalID: -520332302843598096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b690f0fca8ef4e6d0800000000000000
+      internalID: -2961962782770132629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_88
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c361ac2defd06d2a0800000000000000
+      internalID: -6713162806439832004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_89
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688d0d8487bc18bf0800000000000000
+      internalID: -323753980715804538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_90
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ea71c0a8dff6500800000000000000
+      internalID: 391810461954715193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_91
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efbb8287d2584c80800000000000000
+      internalID: -8338323624514830362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_92
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aa4e7f636e27bc0800000000000000
+      internalID: -3786711212903585171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_93
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5319721138d239750800000000000000
+      internalID: 6310437543827968309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_94
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0c6c6c5100e4c20800000000000000
+      internalID: 3192489279381487793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_95
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbb9e38ce6224d90800000000000000
+      internalID: -7115081664024691774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_96
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80d69140f0a67d90800000000000000
+      internalID: -7100310808750010227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_97
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00723cdf0d34e2e0800000000000000
+      internalID: -2097484388119711733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_98
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f574719e94852b0800000000000000
+      internalID: -5595641271541080291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_99
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102b5ade102709900800000000000000
+      internalID: 689176095595278849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_100
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b80072748eb3ef0800000000000000
+      internalID: -127252772155258014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_101
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6376217347d9c920800000000000000
+      internalID: 3011174510535013229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_102
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8bf98ec2d3264f0800000000000000
+      internalID: -837039317646853913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_103
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 544
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e03cdd48ffa0c20800000000000000
+      internalID: 3173629833557249606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aa5525c432cb5f0800000000000000
+      internalID: -739677428089771496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258017dd06fdffd00800000000000000
+      internalID: 1008770448679307346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656ead33ac1e60c10800000000000000
+      internalID: 2019549741491873366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e68b2557c7638e10800000000000000
+      internalID: 2198715148912002790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fd086a05e22fa10800000000000000
+      internalID: 1941665313275830110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_109
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54545811d402f26c0800000000000000
+      internalID: -4166075614915902139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_110
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba968f3627277960800000000000000
+      internalID: 7599585941439027898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_111
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bcf34727fa88300800000000000000
+      internalID: 254646285057903411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_112
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931a2083a0018b0a0800000000000000
+      internalID: -6865719995850907335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_113
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de90af608eba0e690800000000000000
+      internalID: -7574865560199362067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_114
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f7f90167a566100800000000000000
+      internalID: 100867504793943939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_115
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89de13ded27de5070800000000000000
+      internalID: 8097145772311702936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_116
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbded4afd38939a0800000000000000
+      internalID: -6252821611060208643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_117
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c934fec8931fab7d0800000000000000
+      internalID: -2901741780406942820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_118
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40067b29679599f00800000000000000
+      internalID: 1124027947808153604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_119
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e29b185d1066ce90800000000000000
+      internalID: -7005806491179707671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_120
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74482077639e2d50800000000000000
+      internalID: 6714466166928589946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_121
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c83dbb1dd8edf7c0800000000000000
+      internalID: -4035813654703294267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_122
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c36b55c4d4d367b0800000000000000
+      internalID: -5232104331765128253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_123
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb77322a848d1dd0800000000000000
+      internalID: -2513707288188453902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_124
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 448
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b18df2ce260c1f0800000000000000
+      internalID: -1026711948485977336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fb5ad8af855f7d0800000000000000
+      internalID: -2885302153119416567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c637aabe51ee7d5d0800000000000000
+      internalID: -3037697645722569876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_127
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fe0a0ade1110ee0800000000000000
+      internalID: -1296735505406169326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_128
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb01f84fe69d15df0800000000000000
+      internalID: -193134238427574082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_129
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aceaabe52be1ed0800000000000000
+      internalID: -2441317828059542893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_130
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bbc86555e3f4e30800000000000000
+      internalID: 4489875889756879683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shooter Traps_131
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 352
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e680a77e424bbed30800000000000000
+      internalID: 4461857926435965038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
