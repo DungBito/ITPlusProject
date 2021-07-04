@@ -41,6 +41,7 @@ public class GameStateManager : MonoBehaviour {
 public enum GameState {
     None,
     Main,
+    Load,
     Play,
     Pause,
     GameOver

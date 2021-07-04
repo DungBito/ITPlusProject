@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Observer;
 
 public class P_Controller : MonoBehaviour, IDamageable {
     #region Init, Config
@@ -85,6 +86,8 @@ public class P_Controller : MonoBehaviour, IDamageable {
         DeadState = new P_DeadState(this, data, deadParam, false);
 
         StateMachine.Initialize(IdleState);
+
+        this.PostEvent(EventID.OnPlay);
     }
     #endregion
 
@@ -120,6 +123,12 @@ public class P_Controller : MonoBehaviour, IDamageable {
         Core.Movement.SetZeroVelocity();
         Core.Movement.AddForce(new Vector2(xForce, yForce), ForceMode2D.Impulse);
         StateMachine.ChangeState(HitState);
+
+        this.PostEvent(EventID.PlayerTakeDamage);
+    }
+
+    public void OnDead () {
+        this.PostEvent(EventID.PlayerDead);
     }
     #endregion
 }
