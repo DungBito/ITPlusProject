@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Audio;
 
 public class P_RunState : P_State {
     private int xInput;
@@ -10,6 +11,7 @@ public class P_RunState : P_State {
     private bool grounded;
 
     private float runSpeed;
+    private float lastTimeParticle;
 
     #region Constructor
     public P_RunState(P_Controller controller, P_Data data, int hashParam, bool isTriggerParam) : base(controller, data, hashParam, isTriggerParam) {
@@ -25,10 +27,14 @@ public class P_RunState : P_State {
 
     public override void Enter() {
         base.Enter();
+        Pooler.Instance.SpawnFromPool("Run", controller.AliveGO.transform);
+        lastTimeParticle = Time.time;
+        AudioManager.Instance.PlaySFX("Walk");
     }
 
-    public override void Exit() {
+    public override void Exit () {
         base.Exit();
+        AudioManager.Instance.StopSFX("Walk");
     }
 
     public override void Input() {
@@ -40,6 +46,12 @@ public class P_RunState : P_State {
 
     public override void LogicUpdate() {
         base.LogicUpdate();
+
+        if (Time.time >= lastTimeParticle + .25f) {
+            Pooler.Instance.SpawnFromPool("Run", controller.AliveGO.transform);
+            lastTimeParticle = Time.time;
+        }
+
         if (!grounded) {
             controller.InAirState.SetJumping(false);
             stateMachine.ChangeState(controller.InAirState);

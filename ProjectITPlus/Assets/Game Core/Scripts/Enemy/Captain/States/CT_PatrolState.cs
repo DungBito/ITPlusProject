@@ -11,6 +11,8 @@ public class CT_PatrolState : CT_State {
     private bool isDetectedBomb;
     private bool isDetectedPlayer;
 
+    private float lastTimeParticle;
+
     #region Constructor
     public CT_PatrolState(CT_Controller controller, CT_Data data, int hashParam, bool isTriggerParam) : base(controller, data, hashParam, isTriggerParam) {
         patrolSpeed = data.patrolSpeed;
@@ -28,14 +30,18 @@ public class CT_PatrolState : CT_State {
 
     public override void Enter() {
         base.Enter();
-    }
-
-    public override void Exit() {
-        base.Exit();
+        Pooler.Instance.SpawnFromPool("Run", controller.AliveGO.transform);
+        lastTimeParticle = Time.time;
     }
 
     public override void LogicUpdate() {
         base.LogicUpdate();
+
+        if (Time.time >= lastTimeParticle + .25f) {
+            Pooler.Instance.SpawnFromPool("Run", controller.AliveGO.transform);
+            lastTimeParticle = Time.time;
+        }
+
         if (isDetectedWall || !isDetectedLedge) {
             controller.IdleState.SetFlipAfterIdle(true);
             stateMachine.ChangeState(controller.IdleState);

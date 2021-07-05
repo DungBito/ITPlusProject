@@ -20,10 +20,7 @@ public class P_GroundState : P_State {
 
     public override void Enter() {
         base.Enter();
-    }
-
-    public override void Exit() {
-        base.Exit();
+        Pooler.Instance.SpawnFromPool("Fall", controller.AliveGO.transform);
     }
 
     public override void Input() {

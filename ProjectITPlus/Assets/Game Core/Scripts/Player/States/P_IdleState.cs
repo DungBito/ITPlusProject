@@ -25,10 +25,6 @@ public class P_IdleState : P_State {
         controller.JumpState.ResetAmountOfJumpLeft();
     }
 
-    public override void Exit() {
-        base.Exit();
-    }
-
     public override void Input() {
         base.Input();
         xInput = inputHandle.XInput;

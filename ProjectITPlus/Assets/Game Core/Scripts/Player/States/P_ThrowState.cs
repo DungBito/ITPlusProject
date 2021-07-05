@@ -27,15 +27,18 @@ public class P_ThrowState : P_State {
     public override void Check() {
         base.Check();
         core.Movement.CheckIfShouldFlip(xInput);
+        controller.BombBar.transform.right = Vector3.right;
     }
 
     public override void Enter() {
         base.Enter();
         isHolding = true;
+        controller.BombBar.SetActive(true);
     }
 
     public override void Exit() {
         base.Exit();
+        controller.BombBar.SetActive(false);
     }
 
     public override void Input() {

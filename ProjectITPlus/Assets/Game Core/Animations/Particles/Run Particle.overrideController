@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Run Particle
+  m_Controller: {fileID: 9100000, guid: 33be00bd3a08ccf49ab205e2e3a73de1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0f752f18d8b82f946b21af0433b7b29a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0f614b75406e9064fb73069a73557692, type: 2}

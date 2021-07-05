@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Observer;
 
 public class BP_Controller : MonoBehaviour, IDamageable {
     #region Init, Config
@@ -22,6 +23,7 @@ public class BP_Controller : MonoBehaviour, IDamageable {
     public CapsuleCollider2D Capsule { get; private set; }
     public Core Core { get; private set; }
     public BP_Hitbox Attack { get; private set; }
+    public BP_HealthBar HealthBar { get; private set; }
 
     //Variables
     public int CurrentHealth { get; private set; }
@@ -32,6 +34,7 @@ public class BP_Controller : MonoBehaviour, IDamageable {
         Capsule = aliveGO.GetComponent<CapsuleCollider2D>();
         Core = aliveGO.GetComponentInChildren<Core>();
         Attack = aliveGO.GetComponentInChildren<BP_Hitbox>();
+        HealthBar = aliveGO.GetComponentInChildren<BP_HealthBar>();
 
         aliveGO.SetActive(true);
         deadGO.SetActive(false);
@@ -84,6 +87,7 @@ public class BP_Controller : MonoBehaviour, IDamageable {
     private void Update() {
         StateMachine.CurrentState.LogicUpdate();
         Core.LogicUpdate();
+        HealthBar.transform.right = Vector3.right;
     }
 
     private void FixedUpdate() {
@@ -107,7 +111,12 @@ public class BP_Controller : MonoBehaviour, IDamageable {
         Animator.SetInteger("health", CurrentHealth);
         Core.Movement.SetZeroVelocity();
         Core.Movement.AddForce(new Vector2(xForce, yForce), ForceMode2D.Impulse);
+        HealthBar.SetSize((float)CurrentHealth / (float)maxHealth);
         StateMachine.ChangeState(HitState);
+    }
+
+    public void OnDead () {
+        this.PostEvent(EventID.EnemyDead);
     }
     #endregion
 }

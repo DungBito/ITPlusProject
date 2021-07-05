@@ -25,6 +25,7 @@ public class P_JumpState : P_State {
 
     public override void Enter() {
         base.Enter();
+        Pooler.Instance.SpawnFromPool("Jump", controller.AliveGO.transform);
     }
 
     public override void Exit() {

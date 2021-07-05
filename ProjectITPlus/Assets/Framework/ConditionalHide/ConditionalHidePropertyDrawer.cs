@@ -1,12 +1,10 @@
 using UnityEngine;
 using UnityEditor;
 
-//Original version of the ConditionalHideAttribute created by Brecht Lecluyse (www.brechtos.com)
-//Modified by: -
-
+#if UNITY_EDITOR
 [CustomPropertyDrawer(typeof(ConditionalHideAttribute))]
 public class ConditionalHidePropertyDrawer : PropertyDrawer {
-    public override void OnGUI(Rect position, SerializedProperty property, GUIContent label) {
+    public override void OnGUI (Rect position, SerializedProperty property, GUIContent label) {
         var condHAtt = (ConditionalHideAttribute)attribute;
         var enabled = GetConditionalHideAttributeResult(condHAtt, property);
 
@@ -19,7 +17,7 @@ public class ConditionalHidePropertyDrawer : PropertyDrawer {
         GUI.enabled = wasEnabled;
     }
 
-    public override float GetPropertyHeight(SerializedProperty property, GUIContent label) {
+    public override float GetPropertyHeight (SerializedProperty property, GUIContent label) {
         var condHAtt = (ConditionalHideAttribute)attribute;
         var enabled = GetConditionalHideAttributeResult(condHAtt, property);
 
@@ -33,7 +31,7 @@ public class ConditionalHidePropertyDrawer : PropertyDrawer {
         }
     }
 
-    private bool GetConditionalHideAttributeResult(ConditionalHideAttribute condHAtt, SerializedProperty property) {
+    private bool GetConditionalHideAttributeResult (ConditionalHideAttribute condHAtt, SerializedProperty property) {
         var enabled = true;
 
         var propertyPath =
@@ -74,7 +72,7 @@ public class ConditionalHidePropertyDrawer : PropertyDrawer {
         return enabled;
     }
 
-    private bool CheckPropertyType(SerializedProperty sourcePropertyValue) {
+    private bool CheckPropertyType (SerializedProperty sourcePropertyValue) {
         switch (sourcePropertyValue.propertyType) {
             case SerializedPropertyType.Boolean:
                 return sourcePropertyValue.boolValue;
@@ -87,3 +85,4 @@ public class ConditionalHidePropertyDrawer : PropertyDrawer {
         }
     }
 }
+#endif

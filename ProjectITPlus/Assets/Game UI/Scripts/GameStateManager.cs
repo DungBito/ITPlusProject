@@ -44,5 +44,6 @@ public enum GameState {
     Load,
     Play,
     Pause,
-    GameOver
+    GameOver,
+    GameWin
 }

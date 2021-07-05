@@ -35,6 +35,7 @@ public class PS_DeadState : PS_State {
             dead = true;
         }
         if (dead && Time.time >= timeDead + startTime) {
+            controller.OnDead();
             controller.DeadGO.transform.SetPositionAndRotation(controller.AliveGO.transform.position, controller.AliveGO.transform.rotation);
             controller.AliveGO.SetActive(false);
             controller.DeadGO.SetActive(true);

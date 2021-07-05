@@ -5,46 +5,34 @@ using Observer;
 
 public class P_Controller : MonoBehaviour, IDamageable {
     #region Init, Config
-    [Header("Gameobjects")]
+    //Config
+    [Header("Config")]
+    [SerializeField] P_Data data;
     [SerializeField] GameObject aliveGO;
     [SerializeField] GameObject deadGO;
+    [SerializeField] Transform bombSpawn;
+    [SerializeField] GameObject bombBar;
+    [SerializeField] Animator animator;
+    [SerializeField] CapsuleCollider2D capsule;
+    [SerializeField] Core core;
+    [SerializeField] P_InputHandle inputHandle;
+
+    //Getter
     public GameObject AliveGO { get => aliveGO; }
     public GameObject DeadGO { get => deadGO; }
-
-    [Header("Data")]
-    [SerializeField] P_Data data;
-
-    [Header("Other")]
-    [SerializeField] Transform bombSpawn;
     public Transform BombSpawn { get => bombSpawn; }
+    public GameObject BombBar { get => bombBar; }
+    public Animator Animator { get => animator; }
+    public CapsuleCollider2D Capsule { get => capsule; }
+    public Core Core { get => core; }
+    public P_InputHandle InputHandle { get => inputHandle; }
 
+    //Health System
     [Header("Health System")]
     [SerializeField] int maxHealth;
     [SerializeField] int minHealth;
-
-    //Components
-    public Animator Animator { get; private set; }
-    public CapsuleCollider2D Capsule { get; private set; }
-    public Core Core { get; private set; }
-    public P_InputHandle InputHandle { get; private set; }
-
-    //Variables
     public int CurrentHealth { get; private set; }
     public bool IsDead { get; private set; }
-
-    private void Awake() {
-        Animator = aliveGO.GetComponent<Animator>();
-        Capsule = aliveGO.GetComponent<CapsuleCollider2D>();
-        Core = aliveGO.GetComponentInChildren<Core>();
-        InputHandle = aliveGO.GetComponentInChildren<P_InputHandle>();
-
-        aliveGO.SetActive(true);
-        deadGO.SetActive(false);
-        Capsule.direction = CapsuleDirection2D.Vertical;
-
-        CurrentHealth = maxHealth;
-        IsDead = false;
-    }
     #endregion
 
     #region State Machine
@@ -59,9 +47,10 @@ public class P_Controller : MonoBehaviour, IDamageable {
     public P_ThrowState ThrowState { get; private set; }
     public P_HitState HitState { get; private set; }
     public P_DeadState DeadState { get; private set; }
+    public P_DoorInState DoorInState { get; private set; }
+    public P_DoorOutState DoorOutState { get; private set; }
 
     //Hash param animator
-    private readonly int emptyParam = Animator.StringToHash("empty");
     private readonly int idleParam = Animator.StringToHash("idle");
     private readonly int runParam = Animator.StringToHash("run");
     private readonly int jumpParam = Animator.StringToHash("jump");
@@ -73,7 +62,7 @@ public class P_Controller : MonoBehaviour, IDamageable {
     private readonly int doorOutParam = Animator.StringToHash("doorOut");
     private readonly int doorInParam = Animator.StringToHash("doorIn");
 
-    private void Start() {
+    private void Awake () {
         StateMachine = new P_StateMachine();
 
         IdleState = new P_IdleState(this, data, idleParam, false);
@@ -84,37 +73,46 @@ public class P_Controller : MonoBehaviour, IDamageable {
         ThrowState = new P_ThrowState(this, data, throwParam, false);
         HitState = new P_HitState(this, data, hitParam, false);
         DeadState = new P_DeadState(this, data, deadParam, false);
+        DoorInState = new P_DoorInState(this, data, doorInParam, true);
+        DoorOutState = new P_DoorOutState(this, data, doorOutParam, true);
+    }
+    #endregion
 
-        StateMachine.Initialize(IdleState);
+    #region Start
+    private void Start () {
+        aliveGO.SetActive(true);
+        deadGO.SetActive(false);
+        Capsule.direction = CapsuleDirection2D.Vertical;
+        bombBar.SetActive(false);
+        CurrentHealth = maxHealth;
+        IsDead = false;
+
+        StateMachine.Initialize(DoorOutState);
 
         this.PostEvent(EventID.OnPlay);
     }
     #endregion
 
     #region Update
-    private void Update() {
+    private void Update () {
         StateMachine.CurrentState.LogicUpdate();
         Core.LogicUpdate();
-
-        if (Input.GetKeyDown(KeyCode.P)) {
-            JumpState.IncreaseMaxAmountOfJump();
-        }
     }
 
-    private void FixedUpdate() {
+    private void FixedUpdate () {
         StateMachine.CurrentState.PhysicsUpdate();
     }
     #endregion
 
     #region Destroy
-    public void Destroy() {
+    public void Destroy () {
         Destroy(aliveGO);
         Destroy(this);
     }
     #endregion
 
     #region Damageable
-    public void Damageable(int dame, float xForce, float yForce) {
+    public void Damageable (int dame, float xForce, float yForce) {
         CurrentHealth -= dame;
         if (CurrentHealth <= minHealth) {
             IsDead = true;
@@ -129,6 +127,19 @@ public class P_Controller : MonoBehaviour, IDamageable {
 
     public void OnDead () {
         this.PostEvent(EventID.PlayerDead);
+    }
+    #endregion
+
+    #region Upgrade or Item collect
+    public void UpgradeJump () {
+        JumpState.IncreaseMaxAmountOfJump();
+    }
+
+    public void CollectHeart () {
+        if (CurrentHealth < maxHealth) {
+            CurrentHealth++;
+            this.PostEvent(EventID.PlayerCollectHeart);
+        }
     }
     #endregion
 }

@@ -26,10 +26,6 @@ public class P_InAirState : P_State {
         grounded = core.Collision.Grounded;
     }
 
-    public override void Enter() {
-        base.Enter();
-    }
-
     public override void Exit() {
         base.Exit();
         ResetAnimation();

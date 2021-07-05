@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Audio;
 
 public class Bomb_Controller : MonoBehaviour, IBombAction {
     #region Init, Config
@@ -38,6 +39,7 @@ public class Bomb_Controller : MonoBehaviour, IBombAction {
             timeToExplosionLeft -= Time.deltaTime;
         }
         else if (isBombOn && timeToExplosionLeft <= 0 && !hasExplosion) {
+            AudioManager.Instance.PlaySFX("Explosion");
             Explosion();
             hasExplosion = true;
             isBombOn = false;

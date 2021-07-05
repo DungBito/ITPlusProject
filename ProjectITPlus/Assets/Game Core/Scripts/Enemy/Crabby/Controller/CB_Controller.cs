@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Observer;
 
 public class CB_Controller : MonoBehaviour, IDamageable {
     #region Init, Config
@@ -105,6 +106,10 @@ public class CB_Controller : MonoBehaviour, IDamageable {
         Core.Movement.SetZeroVelocity();
         Core.Movement.AddForce(new Vector2(xForce, yForce), ForceMode2D.Impulse);
         StateMachine.ChangeState(HitState);
+    }
+
+    public void OnDead () {
+        this.PostEvent(EventID.EnemyDead);
     }
     #endregion
 }

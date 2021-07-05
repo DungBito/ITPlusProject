@@ -3,6 +3,12 @@
 
 	OnPlay,
 
+	PlayerCollectHeart,
 	PlayerTakeDamage,
 	PlayerDead,
+
+	EnemyDead,
+	OnClearEnemy,
+
+	OnWin,
 }

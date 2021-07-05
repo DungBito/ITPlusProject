@@ -8,17 +8,10 @@ public class BP_GroundState : BP_State {
     }
     #endregion
 
-    public override void Check() {
-        base.Check();
-    }
-
     public override void Enter() {
         base.Enter();
         core.Movement.SetXVelocity(core.Movement.CurrentVelocity.x / 3);
-    }
-
-    public override void Exit() {
-        base.Exit();
+        Pooler.Instance.SpawnFromPool("Fall", controller.AliveGO.transform);
     }
 
     public override void LogicUpdate() {
@@ -26,9 +19,5 @@ public class BP_GroundState : BP_State {
         if (isFinishAnimation) {
             stateMachine.ChangeState(controller.IdleState);
         }
-    }
-
-    public override void PhysicsUpdate() {
-        base.PhysicsUpdate();
     }
 }

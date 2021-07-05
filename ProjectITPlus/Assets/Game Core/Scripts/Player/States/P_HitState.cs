@@ -24,14 +24,6 @@ public class P_HitState : P_State {
         }
     }
 
-    public override void Exit() {
-        base.Exit();
-    }
-
-    public override void Input() {
-        base.Input();
-    }
-
     public override void LogicUpdate() {
         base.LogicUpdate();
         if (grounded && core.Movement.IsNegativeYVelo && Time.time >= startTime + timeToCheck) {
@@ -42,9 +34,5 @@ public class P_HitState : P_State {
                 stateMachine.ChangeState(controller.GroundState);
             }
         }
-    }
-
-    public override void PhysicsUpdate() {
-        base.PhysicsUpdate();
     }
 }

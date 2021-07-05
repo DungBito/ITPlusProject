@@ -43,7 +43,6 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 2800000, guid: 4034ed8226644e045a8f85f3c1fa125e, type: 3}
-    - {fileID: 2800000, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
@@ -141,32 +140,6 @@ SpriteAtlas:
   - {fileID: -7223658455709132073, guid: 4034ed8226644e045a8f85f3c1fa125e, type: 3}
   - {fileID: 8819438893310010655, guid: 4034ed8226644e045a8f85f3c1fa125e, type: 3}
   - {fileID: 5697696572159324438, guid: 4034ed8226644e045a8f85f3c1fa125e, type: 3}
-  - {fileID: -8820715720815460284, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: -3876855153373189597, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: -3638915416353919606, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: 2227524988284003772, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: 231611899649052980, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: -4567166467494461625, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: -3422533557881991169, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: -6349621633965948980, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: -8852907087957533723, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: -7762088732943770002, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: -8941719328002050661, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: 6434908385747100577, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: 1155585398417393452, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: 4752394321373314233, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: -4874108527554084754, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: 1920559433694085248, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: -2586147624276132951, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: -4940031589002978103, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: -3495954490631008235, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: -1371746429950553420, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: -5752298251677479688, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: 8421518868266381838, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: -9085177022996372789, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: 2884033266292129774, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: 7184930987310994822, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
-  - {fileID: 4963779112001686402, guid: cbfec92cae4a8ba4fad95b5b846e7ba8, type: 3}
   m_PackedSpriteNamesToIndex:
   - Terrain and Back Wall (32x32)_80
   - Terrain and Back Wall (32x32)_81
@@ -262,31 +235,5 @@ SpriteAtlas:
   - Terrain and Back Wall (32x32)_23
   - Terrain and Back Wall (32x32)_20
   - Terrain and Back Wall (32x32)_21
-  - Ship_0
-  - Ship_1
-  - Ship_2
-  - Ship_3
-  - Ship_13
-  - Ship_4
-  - Ship_12
-  - Ship_5
-  - Ship_11
-  - Ship_6
-  - Ship_10
-  - Ship_7
-  - Ship_17
-  - Ship_8
-  - Ship_16
-  - Ship_24
-  - Ship_9
-  - Ship_15
-  - Ship_25
-  - Ship_14
-  - Ship_22
-  - Ship_23
-  - Ship_20
-  - Ship_19
-  - Ship_21
-  - Ship_18
   m_Tag: New Sprite Atlas
   m_IsVariant: 0

@@ -9,6 +9,8 @@ public class CT_ScareState : CT_State {
     private bool isDetectedWall;
     private bool isDetectedLedge;
 
+    private float lastTimeParticle;
+
     #region Constructor
     public CT_ScareState(CT_Controller controller, CT_Data data, int hashParam, bool isTriggerParam) : base(controller, data, hashParam, isTriggerParam) {
         timeScare = data.timeScare;
@@ -25,14 +27,18 @@ public class CT_ScareState : CT_State {
     public override void Enter() {
         base.Enter();
         core.Movement.Flip();
-    }
-
-    public override void Exit() {
-        base.Exit();
+        Pooler.Instance.SpawnFromPool("Run", controller.AliveGO.transform);
+        lastTimeParticle = Time.time;
     }
 
     public override void LogicUpdate() {
         base.LogicUpdate();
+
+        if (Time.time >= lastTimeParticle + .2f) {
+            Pooler.Instance.SpawnFromPool("Run", controller.AliveGO.transform);
+            lastTimeParticle = Time.time;
+        }
+
         if (Time.time >= startTime + timeScare) {
             stateMachine.ChangeState(controller.IdleState);
         }

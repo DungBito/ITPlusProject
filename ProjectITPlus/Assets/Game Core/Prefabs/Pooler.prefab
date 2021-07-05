@@ -47,4 +47,16 @@ MonoBehaviour:
   - tag: Bomb
     prefab: {fileID: 9054439659578078236, guid: 5fcbf5c55ac6c6e49add0fcc0c3e31e9,
       type: 3}
+    size: 20
+  - tag: Fall
+    prefab: {fileID: 4777910768280795834, guid: 9db69d76a2526a14cbf73aa39a115875,
+      type: 3}
     size: 10
+  - tag: Jump
+    prefab: {fileID: 4976275847509229115, guid: 7f237ccfbc3ba7c46ad277a8e6d17a87,
+      type: 3}
+    size: 10
+  - tag: Run
+    prefab: {fileID: 8743995631307349459, guid: 3bd47cdc410aff54c9d509eb2fab1618,
+      type: 3}
+    size: 30

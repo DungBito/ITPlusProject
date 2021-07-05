@@ -21,10 +21,7 @@ public class BP_DeadState : BP_State {
     public override void Enter() {
         base.Enter();
         core.Movement.SetXVelocity(core.Movement.CurrentVelocity.x / 3);
-    }
-
-    public override void Exit() {
-        base.Exit();
+        Pooler.Instance.SpawnFromPool("Fall", controller.AliveGO.transform);
     }
 
     public override void LogicUpdate() {
@@ -35,14 +32,11 @@ public class BP_DeadState : BP_State {
             dead = true;
         }
         if (dead && Time.time >= timeDead + startTime) {
+            controller.OnDead();
             controller.DeadGO.transform.SetPositionAndRotation(controller.AliveGO.transform.position, controller.AliveGO.transform.rotation);
             controller.AliveGO.SetActive(false);
             controller.DeadGO.SetActive(true);
             controller.Destroy();
         }
-    }
-
-    public override void PhysicsUpdate() {
-        base.PhysicsUpdate();
     }
 }
