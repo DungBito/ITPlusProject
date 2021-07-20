@@ -43,6 +43,8 @@ public class UIController : MonoBehaviour {
     private TimeSpan time;
 
     private void Awake () {
+        Screen.orientation = ScreenOrientation.LandscapeLeft;
+
         startSettingPos = settingPanel.transform.localPosition;
         startInforPos = inforPanel.transform.localPosition;
         startPausePos = pausePanel.transform.localPosition;
